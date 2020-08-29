@@ -1,3 +1,5 @@
+//This code can be run on the default Virtual Machine on Andriod Studio, or, on an Andriod device of your choice connected via USB
+
 import 'package:flutter/material.dart';
 
 void main() => runApp(MyApp());
